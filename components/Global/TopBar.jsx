@@ -13,10 +13,7 @@ const TopBar = (props) => {
     <>
       <nav className="lg:flex hidden flex-row bgPrimary items-start w-full py-3">
         <div className="flex select-none">
-          {/* <svg className="relative  ml-6 mt-2 left-0" width="100" height="22" viewBox="0 0 100 22" fill="none" xmlns="http://www.w3.org/2000/svg">
-						<path d="M38.14 7.722V10.386H42.442V12.708H38.14V15.534H42.982V18H35.062V5.274H42.982V7.722H38.14ZM48.708 15.642H52.812V18H45.63V5.274H48.708V15.642ZM58.2037 7.722V10.386H62.5057V12.708H58.2037V15.534H63.0457V18H55.1257V5.274H63.0457V7.722H58.2037ZM73.9916 5.274V7.722H68.7716V10.512H72.8036V12.852H68.7716V18H65.6936V5.274H73.9916ZM85.6165 5.274V7.722H82.1605V18H79.0645V7.722H75.6445V5.274H85.6165ZM95.698 15.678H90.928L90.136 18H86.896L91.558 5.364H95.104L99.766 18H96.49L95.698 15.678ZM94.906 13.338L93.322 8.658L91.72 13.338H94.906Z" fill="#5D6E81" />
-						<circle cx="11" cy="11" r="11" fill="#5D6E81" />
-					</svg> */}
+  
           <svg
             className="relative  ml-6 mt-2 left-0"
             width="80"
@@ -54,45 +51,7 @@ const TopBar = (props) => {
 
         <div className="absolute right-0 flex select-none">
           <div className="flex items-center">
-             <button>
-              <svg
-                className="mx-3"
-                width="20"
-                height="19"
-                viewBox="0 0 20 19"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M6 7H6.01M10 7H10.01M14 7H14.01M7 13H3C1.89543 13 1 12.1046 1 11V3C1 1.89543 1.89543 1 3 1H17C18.1046 1 19 1.89543 19 3V11C19 12.1046 18.1046 13 17 13H12L7 18V13Z"
-                  stroke="#5D6E81"
-                  strokeWidth="2"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                />
-              </svg>
-            </button>
-
-
-            <button>
-              <svg
-                className="mx-3"
-                width="18"
-                height="20"
-                viewBox="0 0 18 20"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M12 15H17L15.5951 13.5951C15.2141 13.2141 15 12.6973 15 12.1585V9C15 6.38757 13.3304 4.16509 11 3.34142V3C11 1.89543 10.1046 1 9 1C7.89543 1 7 1.89543 7 3V3.34142C4.66962 4.16509 3 6.38757 3 9V12.1585C3 12.6973 2.78595 13.2141 2.40493 13.5951L1 15H6M12 15V16C12 17.6569 10.6569 19 9 19C7.34315 19 6 17.6569 6 16V15M12 15H6"
-                  stroke="#5D6E81"
-                  strokeWidth="2"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                />
-              </svg>
-            </button>
-
+     
             <button>
               <svg
                 className="mx-3"
@@ -125,7 +84,7 @@ const TopBar = (props) => {
                   />
                   <path
                     d="M32.223 27.4806L24.5424 25.6735C24.4264 25.6462 24.3198 25.5998 24.2199 25.5437L17.9992 29.1724L12.0211 25.3682C11.8663 25.5139 11.6741 25.6222 11.456 25.6735L3.77545 27.4806C2.65396 27.7445 1.86133 28.7453 1.86133 29.8973V35.3793C1.86133 35.722 2.13927 36 2.48205 36H33.5165C33.8593 36 34.1372 35.722 34.1372 35.3793V29.8973C34.1372 28.7453 33.3445 27.7445 32.223 27.4806Z"
-                    fill="#2C79E0"
+                    fill="#CD5C08"
                   />
                   <path
                     d="M23.4643 25.9848L17.9996 29.1726L12.4824 25.6616C12.8859 28.3502 15.1987 30.414 17.9996 30.414C20.6879 30.414 22.9312 28.5145 23.4643 25.9848Z"

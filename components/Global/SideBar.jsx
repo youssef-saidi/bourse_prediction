@@ -53,7 +53,7 @@ const SideBar = (props) => {
             </div>
             <div className="flex flex-row md:py-4 py-3 w-full">
               <Link
-                href={"#"}
+                href={routes.BOURSE}
                 className="my-1 colorGray pl-6 pr-3 flex justify-center items-center"
               >
                 <span>

@@ -2,13 +2,16 @@ import { createSlice } from '@reduxjs/toolkit'
 
 const initialState = {
   options:[{
-    option: "Camera 1"
+    label:"option1",
+    value: 1
   },
   {
-    option: "Camera 2"
+    label:"option2",
+    value: 2
   },
-  {
-    option: "Camera 3"
+  {    
+    label:"option3",
+    value: 3
   },
   ],
   cameraChoosed:"",
@@ -16,7 +19,7 @@ const initialState = {
 
 }
 
-export const cameraSlice = createSlice({
+export const bourseSlice = createSlice({
   name: 'side',
   initialState,
   reducers: {
@@ -33,6 +36,6 @@ export const cameraSlice = createSlice({
   },
 })
 
-export const { selectCamera ,selectAnalysis } = cameraSlice.actions
+export const { selectCamera ,selectAnalysis } = bourseSlice.actions
 
-export default cameraSlice.reducer
+export default bourseSlice.reducer

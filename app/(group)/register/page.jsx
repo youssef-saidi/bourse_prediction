@@ -78,8 +78,8 @@ const displayError = (key) => {
               </div>
               {displayError("email")}
             </div>
-          </div>
-
+         </div>
+ 
           <div className="mt-4">
             <div className="outlin relative">
               <label

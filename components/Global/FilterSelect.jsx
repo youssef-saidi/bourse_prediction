@@ -3,36 +3,40 @@ import { useDispatch } from 'react-redux';
 
 const FilterSelect = ({ title, placeholder, options, onOptionSelect }) => {
     const [selectedOption, setSelectedOption] = useState('');
-    const dispatch = useDispatch()
-
-
-    const handleSelectChange = (e) => {
-        const selectedValue = e.target.value;
-        setSelectedOption(selectedValue);
-
-        console.log(selectedValue)
-        if (onOptionSelect) {
-            dispatch(onOptionSelect(selectedValue));
-        }
-    };
 
     return (
-        <div className="px-1">
-            <h1 className="text-sm lg:text-base font-normal leading-6 my-2 lg:my-4">{title}</h1>
-            <select className="h-8 lg:h-12 rounded-md w-full px-3 text-xs font-normal leading-5 lg:text-sm" style={{ border: "1px solid #D9E2EE" }}
-                value={selectedOption}
-                onChange={handleSelectChange}
-            >
-                <option value="" disabled>
-                    {placeholder}
-                </option>
-                {options.map((it) => (
-                    <option key={it.option} value={it.option}>
-                        {it.option}
-                    </option>
-                ))}
-            </select>
-        </div>
+        <>
+
+     
+                <div className="relative h-full mx-2">
+                    <label
+                        htmlFor="email"
+                        className="text-base bg-transparent font-normal py-2"
+                    >
+                        {title}
+                    </label>
+                    <div className="relative w-full">
+                        <select className="block p-3 md:w-96 w-80 inputLogin text-base outline-none bg-transparent text-black text-sm pt-5 font-medium" 
+                            // value={selectedOption}
+                            onChange={onOptionSelect}
+                        >
+                            <option value="" disabled>
+                                {placeholder}
+                            </option>
+                            {options.map((it) => (
+                                <option key={it.value} value={it.value} >
+                                    {it.label}
+                                </option>
+                            ))}
+                        </select>
+               
+                    </div>
+                </div>
+         
+
+       
+
+        </>
     );
 };
 

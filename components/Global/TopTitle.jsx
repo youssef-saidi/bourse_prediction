@@ -1,5 +1,5 @@
 
-const TopTitle = ({ title ,subTitle ,type }) => {
+const TopTitle = ({ title ,subTitle  }) => {
 
   return (
     <div className="flex flex-col items-center md:items-start text-xl mt-6">
@@ -7,7 +7,7 @@ const TopTitle = ({ title ,subTitle ,type }) => {
         { `Hi ${title} 👋`}
       </h1>
       <h3 className="font-normal text-base md:text-start text-center tracking-wider pt-3">
-        You Choosed  :: <span className="font-bold">{subTitle}</span> Type :: <span className="font-bold">{type}</span>
+        <span className="font-bold">{subTitle}</span>
       </h3>
     </div>
   );

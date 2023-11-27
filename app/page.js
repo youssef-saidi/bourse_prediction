@@ -18,8 +18,8 @@ import ZoneInZoneOut from '@/components/Dashboard/ZoneInZoneOut';
 const Home = () => {
     const dispatch = useDispatch()
 
-    const cameraSelected = useSelector((state) => state.camera.cameraChoosed),
-        analysisSelected = useSelector((state) => state.camera.analysisType),
+    const bourseSelected = useSelector((state) => state.bourse.bourseChoosed),
+        analysisSelected = useSelector((state) => state.bourse.analysisType),
         options = useSelector((state) => state.data.categories),
         options1 = useSelector((state) => state.data.zones);
 
@@ -94,7 +94,7 @@ const Home = () => {
 
             <section className="relative">
                 <Layout>
-                    <TopTitle title={"user"} subTitle={cameraSelected} type={analysisSelected} />
+                    <TopTitle title={"user"} subTitle={"Welcome to our website"} />
                     <div className='flex justify-end'>
                         <button className="text-sm Button flex  items-center  bg-white px-3 py-2 mr-2">
 

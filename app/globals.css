@@ -6,11 +6,11 @@
 
 
 :root {
-  --bgLinearBlue: linear-gradient(298.14deg, #2B78E0 18.09%, rgba(43, 120, 224, 0.79) 81.24%);
+  --bgLinearBlue: linear-gradient(298.14deg, #CD5C08 18.09%, rgba(43, 120, 224, 0.79) 81.24%);
   --colorPrimary: #5D6E81;
   --colorBgPrimary: #F5F7F8;
   --colorBgLogin: #EDF2F8;
-  --colorBlue: #2C79E0;
+  --colorBlue: #CD5C08;
   --navigationWidth: 240px;
   --navigationWidthCollapsed: 80px;
 }
@@ -61,6 +61,7 @@ body {
 
 .sidebar-navigation.active-navigation {
   max-width: var(--navigationWidth);
+  
 }
 
 .main-app-container {
@@ -128,8 +129,8 @@ body {
 }
 
 .btnLogin {
-  background: #2C79E0;
-  box-shadow: 0px 10.4502px 23.2228px -6.96683px #2C79E0;
+  background: var(--colorBlue);
+  box-shadow: 0px 10.4502px 23.2228px -6.96683px var(--colorBlue);
   border-radius: 100px;
   font-style: normal;
   font-weight: 500;
