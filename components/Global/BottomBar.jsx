@@ -17,13 +17,13 @@ const BottomBar = () => {
     
   
         <div className="flex flex-col  md:py-4 py-3 items-center">
-          <Link exact href={routes.NOTIFICATIONS} className="my-1 colorGray pr-3">
+          <Link exact href={routes.BOURSE} className="my-1 colorGray pr-3">
             <svg className="relative -top-1 activeStroke" stroke="#5D6E81" width="24" height="20" viewBox="0 0 19 20" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path d="M12.5 15H17.5L16.0951 13.5951C15.7141 13.2141 15.5 12.6973 15.5 12.1585V9C15.5 6.38757 13.8304 4.16509 11.5 3.34142V3C11.5 1.89543 10.6046 1 9.5 1C8.39543 1 7.5 1.89543 7.5 3V3.34142C5.16962 4.16509 3.5 6.38757 3.5 9V12.1585C3.5 12.6973 3.28595 13.2141 2.90493 13.5951L1.5 15H6.5M12.5 15V16C12.5 17.6569 11.1569 19 9.5 19C7.84315 19 6.5 17.6569 6.5 16V15M12.5 15H6.5" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
             </svg>
   
           </Link>
-          <Link exact href={routes.NOTIFICATIONS} activeClassName="active" className="tracking-wider font-normal" style={{ fontSize: "9.8px" }} >Notifications</Link>
+          <Link exact href={routes.BOURSE} activeClassName="active" className="tracking-wider font-normal" style={{ fontSize: "9.8px" }} >BOURSE</Link>
         </div>
         <div className="flex flex-col  md:py-4 py-3 items-center">
           <Link exact href={routes.SETTINGS}className="my-1 colorGray " activeClassName="active">
