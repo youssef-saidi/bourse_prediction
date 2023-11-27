@@ -1,0 +1,189 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
+
+
+:root {
+  --bgLinearBlue: linear-gradient(298.14deg, #2B78E0 18.09%, rgba(43, 120, 224, 0.79) 81.24%);
+  --colorPrimary: #5D6E81;
+  --colorBgPrimary: #F5F7F8;
+  --colorBgLogin: #EDF2F8;
+  --colorBlue: #2C79E0;
+  --navigationWidth: 240px;
+  --navigationWidthCollapsed: 80px;
+}
+
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--colorBlue);
+  border-radius: 50px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--colorBlue);
+  border-radius: 50px;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif !important;
+  background-color: var(--colorBgPrimary);
+  color: var(--colorPrimary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.bgPrimary{
+  background-color: var(--colorBgPrimary);
+}
+
+
+
+.sidebar-navigation {
+  width: 100%;
+  max-width: var(--navigationWidthCollapsed);
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  z-index: 25;
+  padding-top: 55px;
+}
+
+.sidebar-navigation.active-navigation {
+  max-width: var(--navigationWidth);
+}
+
+.main-app-container {
+  padding: 15px;
+  padding-top: 55px;
+  width: calc(100% - var(--navigationWidthCollapsed));
+  float: right;
+  height: 100vh;
+  max-height: 100vh;
+}
+
+.main-app-container.active-container {
+  width: calc(100% - var(--navigationWidth));
+}
+
+.bg-black {
+  background-color: black;
+}
+
+
+
+.bgLinearBlue {
+  background: var(--bgLinearBlue);
+}
+
+.Whitecontainer {
+  /* box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.1); */
+  border-radius: 10px 0px 0px 0px;
+}
+
+.text-blue {
+  color: var(--colorBlue);
+}
+
+.bg-blue {
+  background-color: var(--colorBlue);
+}
+
+.inputLogin {
+  font-size: .9rem;
+  font-weight: normal;
+  color: rgb(0 0 0 / .4);
+  background: #fff;
+  border: 1px solid #D9E2EE;
+  border-radius: 5px;
+}
+
+.bgLogin {
+  background-color: var(--colorBgLogin);
+  box-shadow: 0px 4px 100px rgba(0, 0, 0, 0.25);
+  border-radius: 40px 40px 0px 0px;
+}
+
+@media (min-width: 768px) {
+  .bgLogin {
+    background-color: var(--colorBgLogin);
+    box-shadow: 0px 4px 100px rgba(0, 0, 0, 0.25);
+    border-radius: 0px 0px 100px 0px;
+  }
+}
+
+.outlin input:focus-within~label,
+.outlin input:not(:placeholder-shown)~label {
+  @apply transform scale-75 -translate-y-4 z-0 mb-3 mt-3 px-1 py-0;
+}
+
+.btnLogin {
+  background: #2C79E0;
+  box-shadow: 0px 10.4502px 23.2228px -6.96683px #2C79E0;
+  border-radius: 100px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.active {
+  color: var(--colorBlue);
+}
+
+.active svg {
+  fill: var(--colorBlue);
+  color: #bfdbff;
+}
+
+.active .activeStroke {
+  stroke: var(--colorBlue) !important;
+  fill: none !important;
+}
+
+.active .text-nav {
+  font-weight: 700;
+  color: var(--colorPrimary) !important;
+  fill: var(--colorBlue);
+
+}
+
+.rotateIcon {
+  transform: rotate(180deg);
+  fill: var(--colorBlue);
+}
+
+.rotate {
+  transform: rotate(180deg);
+
+}
+
+.shdow {
+  box-shadow: 0px 5px 0px rgba(0, 0, 0, 0.05);
+  letter-spacing: 0.05em;
+
+}
+
+@media (max-width: 1024px) {
+  .text-xxs {
+    font-size: 10px;
+  }
+
+}
+
+.borderCardChrono {
+  background: #5D6E81;
+  border-radius: 12px 12px 0px 0px;
+}
