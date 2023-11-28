@@ -14,8 +14,7 @@ const initialState = {
     value: 3
   },
   ],
-  cameraChoosed:"",
-  analysisType:""
+
 
 }
 
@@ -23,12 +22,7 @@ export const bourseSlice = createSlice({
   name: 'side',
   initialState,
   reducers: {
-    selectCamera: (state,action) => {
-      state.cameraChoosed = action.payload
-    },
-    selectAnalysis: (state,action) => {
-      state.analysisType = action.payload
-    },
+
 
 
   
@@ -36,6 +30,6 @@ export const bourseSlice = createSlice({
   },
 })
 
-export const { selectCamera ,selectAnalysis } = bourseSlice.actions
+export const {  } = bourseSlice.actions
 
 export default bourseSlice.reducer

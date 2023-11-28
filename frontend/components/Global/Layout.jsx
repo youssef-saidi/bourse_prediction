@@ -1,13 +1,10 @@
 'use client'
-import React, { useEffect, useState } from "react";
-import { useDispatch, useSelector } from "react-redux";
+import React from "react";
+import { useSelector } from "react-redux";
 import SideBar from "./SideBar";
 import TopBar from "./TopBar";
 import BottomBar from "./BottomBar";
-import { toggleChooseCamera } from "@/redux/slices/buttonSlice";
-import { selectAnalysis, selectCamera } from "@/redux/slices/bourseSlice";
-import FilterSelect from "./FilterSelect";
-import { setCategoriesAndZones } from "@/redux/slices/dataSlice";
+
 import _ from "lodash";
 
 
