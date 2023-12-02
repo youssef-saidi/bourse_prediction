@@ -62,7 +62,6 @@ const BarChart2 = () => {
   };
 
   const result =zoneAnalysis(filteredData)
-  console.log(result)
 
 
   return (

@@ -1,0 +1,146 @@
+STUDENTID,AGE,GENDER,HS_TYPE,SCHOLARSHIP,WORK,ACTIVITY,PARTNER,SALARY,TRANSPORT,LIVING,MOTHER_EDU,FATHER_EDU,#_SIBLINGS,KIDS,MOTHER_JOB,FATHER_JOB,STUDY_HRS,READ_FREQ,READ_FREQ_SCI,ATTEND_DEPT,IMPACT,ATTEND,PREP_STUDY,PREP_EXAM,NOTES,LISTENS,LIKES_DISCUSS,CLASSROOM,CUML_GPA,EXP_GPA,COURSE ID,GRADE
+STUDENT1,18 <= and < 30,Female,3,Academic Recognition Scholarships,YES,NO,NO,Lowest,1,1,1,2,3,1,Low-Medium,Highest,3,2,2,1,1,1,1,1,3,2,1,2,1,1,1,B
+STUDENT2,18 <= and < 30,Female,3,Academic Recognition Scholarships,YES,NO,NO,Lowest,1,1,2,3,2,1,Low-Medium,Lowest,2,2,2,1,1,1,1,1,3,2,3,2,2,3,1,B
+STUDENT3,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,NO,Low-Medium,4,2,2,2,2,1,Low-Medium,Lowest,2,1,2,1,1,1,1,1,2,2,1,1,2,2,1,B
+STUDENT4,< 18,Male,1,Academic Recognition Scholarships,YES,NO,YES,Low-Medium,1,2,1,2,5,1,Low-Medium,Lowest,3,1,2,1,1,1,1,2,3,2,2,1,3,2,1,B
+STUDENT5,18 <= and < 30,Female,1,Preliminary Scholarships,NO,NO,YES,Medium,1,4,3,3,2,1,Low-Medium,Medium-High,2,1,1,1,1,1,2,1,2,2,2,1,2,2,1,B
+STUDENT6,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,NO,Low-Medium,1,1,3,3,2,1,Low-Medium,Medium,1,1,2,1,1,1,1,1,1,2,1,2,4,4,1,C
+STUDENT7,< 18,Female,2,Preliminary Scholarships,NO,NO,NO,Lowest,1,3,1,3,1,1,Low-Medium,Medium-High,2,2,2,2,1,2,1,1,3,3,3,3,4,4,1,F
+STUDENT8,< 18,Male,2,Academic Recognition Scholarships,YES,YES,YES,Low-Medium,2,3,4,3,1,1,Medium-High,Medium,1,2,2,1,1,1,3,1,3,2,2,1,1,1,1,C
+STUDENT9,18 <= and < 30,Male,3,Preliminary Scholarships,NO,YES,YES,Lowest,1,3,2,4,2,1,Low-Medium,Medium-High,1,2,2,1,1,1,1,1,3,2,2,2,4,3,1,F
+STUDENT10,18 <= and < 30,Male,2,Preliminary Scholarships,NO,NO,YES,Medium,4,2,1,2,3,1,Low-Medium,Medium,2,2,2,1,1,2,1,1,2,2,2,2,1,2,1,A
+STUDENT11,< 18,Male,1,Preliminary Scholarships,NO,NO,NO,Medium,2,3,3,4,2,1,Medium,Low-Medium,1,1,1,1,1,2,1,1,2,2,2,2,1,1,1,C
+STUDENT12,< 18,Male,1,Academic Recognition Scholarships,YES,YES,NO,Medium-High,2,3,5,5,1,1,Medium,Low-Medium,3,3,3,1,3,1,3,2,3,1,3,3,4,3,1,A
+STUDENT13,< 18,Male,1,Preliminary Scholarships,NO,NO,NO,Lowest,1,1,3,5,4,2,Low-Medium,Low-Medium,3,2,2,1,1,1,1,1,2,2,2,3,4,2,1,A
+STUDENT14,18 <= and < 30,Male,2,Preliminary Scholarships,NO,NO,NO,Lowest,1,1,2,2,2,1,Low-Medium,Medium,1,2,1,1,1,2,1,1,3,2,3,3,4,2,1,B
+STUDENT15,>= 30,Female,2,Academic Recognition Scholarships,YES,YES,NO,Medium,4,2,3,1,2,1,Medium-High,Lowest,2,2,2,1,1,1,1,1,2,3,2,1,4,4,1,C
+STUDENT16,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,NO,Lowest,1,2,4,4,2,1,Medium,Lowest,2,2,2,2,3,2,1,1,3,2,2,3,2,2,1,C
+STUDENT17,< 18,Male,2,Preliminary Scholarships,NO,YES,NO,Lowest,1,1,2,2,4,1,Low-Medium,Medium,2,2,2,1,1,2,1,1,3,2,3,3,4,3,1,B
+STUDENT18,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,NO,Lowest,1,1,2,2,2,1,Low-Medium,Lowest,2,2,2,2,1,2,1,1,2,2,2,2,2,2,1,C
+STUDENT19,< 18,Male,2,Preliminary Scholarships,NO,NO,NO,Medium,1,1,2,2,5,1,Low-Medium,Highest,5,3,2,2,1,2,1,1,3,1,3,3,3,3,1,C
+STUDENT20,< 18,Female,1,Preliminary Scholarships,NO,NO,YES,Low-Medium,2,2,3,3,3,1,Low-Medium,Medium-High,4,2,2,1,2,1,1,1,3,2,2,3,2,3,1,D
+STUDENT21,< 18,Female,2,Excellence Scholarships,YES,NO,YES,Lowest,4,2,3,3,3,2,Low-Medium,Medium,4,2,2,2,1,1,1,2,3,1,2,3,4,4,1,B
+STUDENT22,< 18,Female,2,Preliminary Scholarships,NO,NO,YES,Lowest,4,2,2,2,4,1,Low-Medium,Medium,3,2,2,1,1,1,1,1,3,1,3,3,3,3,1,B
+STUDENT23,18 <= and < 30,Female,2,Academic Recognition Scholarships,YES,NO,YES,Lowest,1,1,1,1,4,2,Low-Medium,Medium-High,3,3,3,1,1,1,1,2,3,1,2,3,3,3,1,D
+STUDENT24,>= 30,Female,2,Preliminary Scholarships,YES,YES,NO,Highest,1,1,1,4,3,1,Low-Medium,Lowest,3,2,3,1,1,2,1,1,3,2,3,3,3,3,1,B
+STUDENT25,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,NO,Low-Medium,1,1,3,1,3,1,Low-Medium,Medium-High,1,2,2,1,1,1,1,1,2,1,3,2,4,4,1,C
+STUDENT26,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,YES,Lowest,1,2,1,4,3,1,Low-Medium,Medium-High,2,2,2,1,1,1,1,1,2,1,3,2,1,2,1,D
+STUDENT27,18 <= and < 30,Female,2,Preliminary Scholarships,NO,YES,YES,Lowest,1,1,4,4,4,1,Low-Medium,Medium-High,2,3,2,1,1,1,1,1,3,3,3,2,2,1,1,B
+STUDENT28,< 18,Female,1,Academic Recognition Scholarships,YES,NO,NO,Lowest,1,1,1,1,4,1,Low-Medium,Medium,3,2,2,1,1,2,1,1,3,1,2,1,2,1,1,B
+STUDENT29,>= 30,Female,2,Preliminary Scholarships,NO,NO,YES,Lowest,4,2,2,2,4,1,Low-Medium,Lowest,2,2,2,1,1,1,1,1,3,2,3,3,5,4,1,D
+STUDENT30,18 <= and < 30,Female,3,Preliminary Scholarships,NO,NO,NO,Lowest,4,2,3,3,2,1,Medium-High,Lowest,2,2,2,1,1,1,1,1,3,2,2,2,4,3,1,F
+STUDENT31,18 <= and < 30,Female,2,Excellence Scholarships,YES,YES,YES,Lowest,1,2,1,1,5,1,Low-Medium,Medium-High,2,2,2,1,1,1,2,1,2,3,3,3,5,4,1,F
+STUDENT32,>= 30,Female,2,Academic Recognition Scholarships,YES,NO,NO,Lowest,1,2,1,2,4,1,Low-Medium,Medium,2,2,3,1,1,1,1,1,3,3,2,3,4,3,1,D
+STUDENT33,18 <= and < 30,Male,2,Preliminary Scholarships,NO,NO,NO,Low-Medium,1,1,2,2,2,1,Low-Medium,Lowest,2,2,2,1,1,2,1,1,2,2,2,1,2,3,1,B
+STUDENT34,18 <= and < 30,Male,2,Academic Recognition Scholarships,YES,NO,YES,Lowest,1,1,1,2,5,1,Low-Medium,Medium,2,1,2,1,1,1,1,1,1,3,2,2,2,3,1,C
+STUDENT35,< 18,Female,1,Preliminary Scholarships,NO,NO,YES,Low-Medium,1,1,3,3,3,1,Low-Medium,Medium-High,2,1,1,1,1,2,1,1,2,2,3,1,4,1,1,C
+STUDENT36,< 18,Female,1,Preliminary Scholarships,NO,NO,NO,Medium,1,1,1,2,5,1,Low-Medium,Medium,2,2,2,1,1,2,1,1,2,1,3,1,1,1,1,B
+STUDENT37,18 <= and < 30,Female,3,Academic Recognition Scholarships,YES,NO,YES,Medium,1,1,1,1,2,2,Medium-High,Medium,1,1,3,1,1,2,2,1,2,1,2,1,4,3,1,C
+STUDENT38,18 <= and < 30,Female,2,Academic Recognition Scholarships,YES,YES,YES,Low-Medium,2,3,3,3,1,1,Low-Medium,Medium,2,2,2,1,1,1,1,1,3,2,3,3,5,4,1,B
+STUDENT39,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,NO,Lowest,1,1,3,3,1,1,Low-Medium,Medium-High,3,2,2,1,1,1,2,1,2,2,2,2,4,3,1,C
+STUDENT40,18 <= and < 30,Male,2,Preliminary Scholarships,NO,NO,YES,Lowest,1,2,1,3,1,1,Low-Medium,Medium-High,1,2,1,1,1,1,1,1,2,2,2,3,2,1,1,B
+STUDENT41,< 18,Female,1,Preliminary Scholarships,NO,NO,NO,Low-Medium,1,1,2,3,1,1,Low-Medium,Highest,1,2,2,1,1,1,1,1,3,1,2,1,2,3,1,B
+STUDENT42,>= 30,Female,2,Academic Recognition Scholarships,YES,NO,NO,Low-Medium,1,2,1,4,2,1,Low-Medium,Low-Medium,3,2,2,1,1,2,1,1,3,2,2,3,4,3,1,B
+STUDENT43,18 <= and < 30,Female,2,Preliminary Scholarships,NO,YES,NO,Lowest,4,2,4,4,2,1,Medium,Lowest,2,2,1,1,1,1,1,1,2,1,3,1,2,3,1,B
+STUDENT44,< 18,Female,2,Preliminary Scholarships,NO,NO,YES,Lowest,1,1,2,3,3,1,Low-Medium,Lowest,2,2,2,1,1,2,1,1,3,1,3,3,3,2,1,E
+STUDENT45,18 <= and < 30,Female,3,Preliminary Scholarships,NO,NO,YES,Lowest,1,1,1,3,2,1,Low-Medium,Highest,2,2,2,1,1,1,2,1,3,2,2,1,4,3,1,B
+STUDENT46,< 18,Female,2,Preliminary Scholarships,NO,NO,YES,Medium-High,1,1,2,3,5,1,Low-Medium,Medium-High,3,2,2,1,1,1,1,1,2,2,2,1,4,3,1,D
+STUDENT47,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,YES,Lowest,1,1,1,2,3,1,Low-Medium,Highest,2,2,2,1,1,1,1,1,2,2,3,1,4,2,1,F
+STUDENT48,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,YES,Lowest,1,2,4,3,1,1,Highest,Medium-High,2,2,2,1,1,2,1,1,2,1,3,2,5,3,1,D
+STUDENT49,< 18,Female,2,Preliminary Scholarships,NO,YES,YES,Lowest,1,2,3,3,3,1,Low-Medium,Low-Medium,1,1,2,1,1,1,1,1,3,2,3,2,2,2,1,B
+STUDENT50,< 18,Female,1,Preliminary Scholarships,NO,NO,NO,Low-Medium,4,1,2,3,2,1,Low-Medium,Medium-High,2,2,2,1,1,1,2,1,2,2,2,1,3,2,1,C
+STUDENT51,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,YES,Low-Medium,2,1,1,1,2,1,Low-Medium,Medium,2,2,2,1,1,2,1,1,2,2,2,3,3,3,1,B
+STUDENT52,18 <= and < 30,Male,3,Academic Recognition Scholarships,YES,YES,NO,Lowest,1,1,1,2,5,1,Low-Medium,Lowest,1,2,2,1,1,2,1,1,2,3,3,1,3,3,1,E
+STUDENT53,18 <= and < 30,Male,2,Academic Recognition Scholarships,YES,NO,NO,Low-Medium,1,1,1,3,4,1,Low-Medium,Lowest,3,1,1,1,1,1,1,2,2,2,2,1,4,2,1,B
+STUDENT54,18 <= and < 30,Male,2,Preliminary Scholarships,NO,YES,NO,Low-Medium,1,1,1,1,5,1,Low-Medium,Lowest,1,2,2,1,1,2,1,1,2,2,2,2,3,2,1,F
+STUDENT55,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,NO,Medium,4,2,1,4,2,1,Medium-High,Low-Medium,2,1,1,1,1,1,1,2,3,1,3,1,5,3,1,D
+STUDENT56,>= 30,Female,2,Academic Recognition Scholarships,YES,NO,YES,Medium-High,1,2,1,1,5,3,Low-Medium,Lowest,1,2,2,1,1,1,3,3,1,3,3,3,5,4,1,D
+STUDENT57,18 <= and < 30,Female,2,Preliminary Scholarships,NO,YES,NO,Lowest,1,1,1,3,5,1,Low-Medium,Medium-High,4,2,3,1,1,1,1,2,3,2,3,3,5,4,1,F
+STUDENT58,18 <= and < 30,Female,2,Academic Recognition Scholarships,YES,YES,NO,Lowest,1,1,4,2,3,1,Medium,Medium,2,3,2,1,1,1,1,1,3,2,3,1,5,4,1,E
+STUDENT59,>= 30,Female,2,Preliminary Scholarships,NO,NO,YES,Medium,1,1,1,3,5,2,Low-Medium,Lowest,3,2,2,1,1,1,1,1,3,2,2,2,5,4,1,D
+STUDENT60,18 <= and < 30,Female,2,Preliminary Scholarships,NO,YES,YES,Lowest,1,1,4,4,3,1,Low-Medium,Medium,3,2,2,1,1,1,1,1,3,3,2,2,4,3,1,F
+STUDENT61,18 <= and < 30,Male,2,Preliminary Scholarships,NO,NO,NO,Highest,2,1,6,1,3,1,Low-Medium,Medium,1,2,2,1,1,1,1,1,1,3,3,1,2,1,1,C
+STUDENT62,< 18,Female,3,Preliminary Scholarships,NO,YES,NO,Low-Medium,1,2,1,3,4,1,Low-Medium,Medium,3,1,2,1,3,2,1,1,3,2,2,2,4,4,1,F
+STUDENT63,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,NO,Lowest,4,2,2,3,2,1,Low-Medium,Medium-High,3,2,2,1,1,1,1,1,2,3,3,2,5,4,1,D
+STUDENT64,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,YES,Low-Medium,1,1,1,3,3,1,Low-Medium,Lowest,1,1,2,1,1,1,3,1,2,2,2,1,3,3,1,F
+STUDENT65,18 <= and < 30,Female,3,Preliminary Scholarships,NO,NO,NO,Lowest,1,1,2,2,2,1,Low-Medium,Lowest,1,2,2,1,3,1,2,1,3,2,3,1,4,3,1,D
+STUDENT66,< 18,Female,2,Preliminary Scholarships,NO,NO,YES,Medium,1,1,2,4,3,1,Low-Medium,Medium-High,1,1,2,1,3,2,2,1,2,1,2,1,2,2,1,C
+STUDENT67,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,YES,Lowest,1,1,3,2,5,1,Low-Medium,Highest,2,2,2,1,1,1,1,1,3,2,2,3,5,4,2,F
+STUDENT68,18 <= and < 30,Female,3,Academic Recognition Scholarships,YES,YES,NO,Medium,1,2,3,4,4,2,Low-Medium,Low-Medium,2,2,2,1,1,2,1,1,2,2,1,2,2,3,2,B
+STUDENT69,18 <= and < 30,Male,2,Academic Recognition Scholarships,YES,NO,NO,Lowest,1,1,2,3,5,3,Low-Medium,Highest,1,2,2,1,1,2,1,1,2,2,3,2,4,3,3,F
+STUDENT70,18 <= and < 30,Male,2,Preliminary Scholarships,NO,NO,YES,Lowest,1,1,2,2,2,1,Low-Medium,Medium,1,1,2,1,1,1,2,1,3,2,3,1,3,2,3,F
+STUDENT71,< 18,Female,2,Preliminary Scholarships,NO,YES,YES,Lowest,1,1,4,3,1,2,Medium-High,Low-Medium,2,2,2,1,1,1,1,1,2,2,3,1,5,4,3,H
+STUDENT72,< 18,Male,3,Preliminary Scholarships,NO,NO,NO,Lowest,1,3,1,3,5,1,Low-Medium,Medium-High,2,2,1,1,1,1,1,1,2,3,3,3,2,2,3,G
+STUDENT73,< 18,Female,2,Preliminary Scholarships,NO,YES,YES,Lowest,1,2,1,1,2,1,Low-Medium,Medium,2,3,3,1,1,1,1,1,2,2,3,2,3,3,3,G
+STUDENT74,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,NO,Lowest,1,2,1,3,4,1,Low-Medium,Medium-High,3,1,1,2,1,1,1,2,3,2,3,1,5,3,3,G
+STUDENT75,< 18,Female,2,Preliminary Scholarships,NO,NO,NO,Lowest,1,1,2,2,3,1,Low-Medium,Lowest,2,2,2,2,1,1,2,1,3,2,3,2,3,3,3,H
+STUDENT76,< 18,Female,2,Preliminary Scholarships,NO,YES,NO,Lowest,1,3,1,5,4,1,Low-Medium,Low-Medium,3,3,1,1,1,1,1,1,2,2,2,2,4,1,3,H
+STUDENT77,18 <= and < 30,Female,1,Preliminary Scholarships,NO,YES,NO,Low-Medium,1,1,5,4,3,1,Medium-High,Medium,2,3,2,1,1,1,3,2,2,1,2,3,2,2,4,E
+STUDENT78,< 18,Female,1,Preliminary Scholarships,NO,NO,YES,Low-Medium,2,2,6,5,2,1,Medium-High,Low-Medium,2,2,2,2,1,2,3,1,2,2,2,2,1,1,4,H
+STUDENT79,18 <= and < 30,Male,2,Academic Recognition Scholarships,YES,YES,NO,Lowest,1,1,1,3,4,1,Low-Medium,Medium-High,2,3,3,1,1,2,1,1,3,3,2,2,2,2,4,E
+STUDENT80,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,NO,Lowest,1,1,1,3,4,1,Low-Medium,Medium-High,1,2,2,1,3,1,1,1,3,3,3,2,4,4,4,D
+STUDENT81,18 <= and < 30,Male,2,Academic Recognition Scholarships,YES,NO,YES,Lowest,2,1,1,1,2,1,Low-Medium,Medium,1,1,1,1,3,1,1,1,2,3,1,2,4,2,5,E
+STUDENT82,>= 30,Female,2,Academic Recognition Scholarships,YES,NO,NO,Lowest,1,2,1,2,4,1,Low-Medium,Medium,2,2,2,1,1,1,1,1,3,3,2,3,5,4,5,D
+STUDENT83,18 <= and < 30,Female,2,Academic Recognition Scholarships,YES,NO,YES,Low-Medium,1,1,3,1,3,1,Low-Medium,Medium,2,2,3,1,1,1,1,1,3,3,2,3,4,3,5,H
+STUDENT84,18 <= and < 30,Female,3,Preliminary Scholarships,NO,NO,NO,Medium,1,1,4,4,2,1,Lowest,Low-Medium,1,2,2,1,1,1,3,1,3,2,3,3,1,2,5,H
+STUDENT85,>= 30,Female,3,Academic Recognition Scholarships,YES,NO,YES,Medium,1,2,4,2,5,3,Low-Medium,Lowest,1,2,2,1,1,1,3,3,3,3,3,3,5,4,5,H
+STUDENT86,< 18,Female,2,Preliminary Scholarships,NO,NO,NO,Low-Medium,1,1,1,1,5,1,Low-Medium,Lowest,1,1,1,1,1,1,1,1,3,2,3,3,4,3,5,E
+STUDENT87,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,NO,Lowest,4,2,3,3,2,1,Medium-High,Lowest,2,2,2,1,1,1,1,1,3,2,3,2,5,4,5,F
+STUDENT88,18 <= and < 30,Female,2,Preliminary Scholarships,NO,YES,NO,Low-Medium,1,1,3,4,2,1,Lowest,Lowest,2,2,2,1,1,1,2,1,2,2,2,2,1,1,6,G
+STUDENT89,< 18,Female,2,Preliminary Scholarships,NO,YES,YES,Lowest,1,1,4,4,1,1,Medium,Low-Medium,2,2,2,1,1,1,1,2,3,1,2,3,5,3,6,G
+STUDENT90,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,NO,Lowest,1,1,3,5,3,1,Low-Medium,Low-Medium,2,2,2,1,1,2,1,1,3,1,3,3,3,2,6,G
+STUDENT91,18 <= and < 30,Male,2,Preliminary Scholarships,NO,YES,YES,Lowest,2,3,3,3,1,1,Medium-High,Low-Medium,2,2,2,1,1,1,1,1,2,3,2,3,4,2,6,G
+STUDENT92,18 <= and < 30,Female,2,Excellence Scholarships,YES,YES,YES,Lowest,1,2,4,1,5,1,Low-Medium,Medium,2,2,2,1,1,1,1,1,2,3,3,2,5,4,6,G
+STUDENT93,< 18,Female,2,Preliminary Scholarships,NO,NO,NO,Lowest,1,1,3,4,4,1,Medium,Low-Medium,3,2,2,1,1,1,1,1,3,2,3,3,2,2,6,H
+STUDENT94,< 18,Female,2,Preliminary Scholarships,YES,NO,YES,Lowest,1,2,1,2,4,1,Low-Medium,Medium,5,2,1,1,1,1,1,1,3,3,3,2,2,2,6,E
+STUDENT95,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,YES,Lowest,1,1,3,2,5,1,Low-Medium,Highest,2,2,3,1,1,1,1,1,3,2,2,3,5,4,6,G
+STUDENT96,< 18,Female,3,Excellence Scholarships,YES,YES,YES,Lowest,2,3,3,4,1,1,Low-Medium,Lowest,2,2,3,1,1,1,1,1,3,2,2,1,4,3,7,F
+STUDENT97,< 18,Female,2,Preliminary Scholarships,NO,YES,YES,Lowest,2,3,2,2,3,1,Medium-High,Low-Medium,2,3,2,1,1,1,1,1,3,2,3,2,2,3,7,H
+STUDENT98,< 18,Female,2,Academic Recognition Scholarships,YES,NO,NO,Lowest,1,3,3,3,4,1,Low-Medium,Medium,2,2,2,1,1,1,1,1,3,2,2,1,3,3,7,G
+STUDENT99,< 18,Female,2,Preliminary Scholarships,NO,YES,NO,Lowest,4,2,2,4,2,1,Low-Medium,Highest,2,3,2,1,1,1,1,1,3,1,2,1,4,4,7,H
+STUDENT100,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,NO,Lowest,4,2,3,4,2,1,Low-Medium,Lowest,3,2,2,1,1,1,1,1,3,2,3,2,2,2,7,H
+STUDENT101,< 18,Female,2,Preliminary Scholarships,NO,NO,NO,Lowest,2,3,4,1,2,1,Medium,Medium,2,2,2,1,1,1,1,1,2,2,2,1,3,3,7,G
+STUDENT102,< 18,Female,2,Preliminary Scholarships,NO,NO,YES,Low-Medium,1,3,2,3,1,1,Low-Medium,Medium-High,2,2,2,1,1,1,1,1,3,3,2,1,2,3,7,H
+STUDENT103,< 18,Female,2,Preliminary Scholarships,NO,NO,YES,Lowest,1,2,3,1,1,2,Medium-High,Medium-High,2,2,2,2,1,1,1,1,3,1,2,1,3,4,7,H
+STUDENT104,< 18,Female,1,Preliminary Scholarships,NO,NO,YES,Highest,1,2,1,3,4,1,Low-Medium,Lowest,2,3,2,1,1,1,1,1,2,2,3,2,4,4,7,H
+STUDENT105,< 18,Male,2,Preliminary Scholarships,NO,NO,NO,Lowest,2,2,4,4,1,1,Medium,Low-Medium,2,2,2,1,1,1,1,1,2,3,2,2,1,1,7,D
+STUDENT106,< 18,Female,2,Academic Recognition Scholarships,YES,YES,NO,Lowest,1,1,2,2,4,1,Low-Medium,Medium-High,2,3,2,1,1,2,1,2,2,1,3,1,3,3,7,H
+STUDENT107,< 18,Female,2,Preliminary Scholarships,NO,YES,NO,Lowest,1,2,2,2,1,1,Low-Medium,Lowest,3,2,2,1,1,1,3,2,2,2,2,1,4,4,7,H
+STUDENT108,< 18,Male,2,Academic Recognition Scholarships,YES,YES,NO,Lowest,1,3,1,3,5,1,Low-Medium,Medium-High,2,2,2,1,1,1,2,1,2,3,2,1,4,2,7,G
+STUDENT109,18 <= and < 30,Male,1,Preliminary Scholarships,NO,YES,NO,Low-Medium,2,1,1,2,1,3,Lowest,Highest,3,3,2,1,1,2,1,1,2,3,1,2,3,3,7,G
+STUDENT110,< 18,Female,1,Preliminary Scholarships,NO,YES,YES,Lowest,2,2,4,4,2,3,Low-Medium,Highest,3,2,2,1,1,1,2,2,3,2,3,1,4,4,7,H
+STUDENT111,18 <= and < 30,Female,2,Preliminary Scholarships,NO,NO,NO,Low-Medium,4,2,4,4,2,2,Lowest,Highest,2,2,2,1,1,2,1,1,2,2,2,1,2,3,8,C
+STUDENT112,< 18,Male,1,Preliminary Scholarships,NO,YES,NO,Lowest,1,2,3,3,1,1,Medium,Low-Medium,1,2,2,2,2,1,1,1,3,1,3,3,4,3,8,C
+STUDENT113,18 <= and < 30,Male,3,Academic Recognition Scholarships,YES,NO,NO,Lowest,3,3,1,1,2,1,Low-Medium,Lowest,1,1,1,2,3,1,2,1,3,3,3,1,4,2,8,C
+STUDENT114,18 <= and < 30,Male,3,Preliminary Scholarships,NO,NO,NO,Lowest,4,2,4,4,1,1,Medium,Low-Medium,2,2,3,2,3,2,2,1,2,2,1,1,1,2,8,B
+STUDENT115,18 <= and < 30,Male,2,Excellence Scholarships,YES,YES,NO,Medium-High,1,1,1,1,1,1,Low-Medium,Lowest,2,2,2,2,2,1,1,1,2,2,1,2,1,1,8,C
+STUDENT116,18 <= and < 30,Male,2,Excellence Scholarships,YES,NO,YES,Lowest,1,1,1,1,2,1,Low-Medium,Low-Medium,3,3,2,2,3,1,2,2,3,2,3,2,2,2,8,B
+STUDENT117,18 <= and < 30,Male,2,Preliminary Scholarships,NO,NO,NO,Lowest,1,1,1,1,5,1,Low-Medium,Medium-High,3,3,3,2,1,1,1,1,3,3,3,1,2,3,8,B
+STUDENT118,>= 30,Male,1,Preliminary Scholarships,NO,YES,NO,Lowest,1,2,4,4,1,1,Lowest,Medium,2,2,3,2,1,2,1,1,2,3,2,1,2,3,8,B
+STUDENT119,< 18,Female,2,Preliminary Scholarships,NO,YES,YES,Lowest,4,2,1,2,3,1,Medium-High,Medium-High,1,2,2,1,1,1,3,1,3,3,2,2,3,3,8,B
+STUDENT120,18 <= and < 30,Male,2,Preliminary Scholarships,NO,YES,NO,Lowest,1,2,3,3,2,3,Low-Medium,Highest,5,2,2,1,1,1,1,2,2,2,3,1,3,3,8,C
+STUDENT121,18 <= and < 30,Male,1,Academic Recognition Scholarships,YES,YES,YES,Low-Medium,2,3,3,3,2,1,Medium,Medium-High,1,1,1,1,1,2,2,1,3,3,3,2,2,2,8,B
+STUDENT122,18 <= and < 30,Male,2,Academic Recognition Scholarships,YES,YES,YES,Lowest,2,1,1,1,5,3,Low-Medium,Medium-High,5,3,3,1,3,1,2,1,1,1,1,1,1,1,8,A
+STUDENT123,< 18,Female,2,Preliminary Scholarships,NO,YES,NO,Lowest,1,1,3,3,2,1,Low-Medium,Lowest,2,1,2,1,2,1,2,1,3,2,2,1,4,3,8,C
+STUDENT124,18 <= and < 30,Male,3,Preliminary Scholarships,NO,NO,NO,Medium,1,1,3,2,4,1,Lowest,Lowest,2,2,3,2,1,1,1,1,3,3,2,1,1,1,8,B
+STUDENT125,< 18,Male,2,Academic Recognition Scholarships,YES,YES,YES,Lowest,1,3,2,3,2,1,Medium-High,Medium,4,2,2,2,1,1,2,2,3,3,2,1,3,3,9,D
+STUDENT126,< 18,Male,2,Excellence Scholarships,YES,YES,NO,Lowest,1,3,1,1,5,1,Low-Medium,Medium,3,2,3,2,1,1,1,2,3,2,3,1,1,3,9,C
+STUDENT127,< 18,Male,1,Academic Recognition Scholarships,YES,YES,YES,Medium,2,3,4,6,2,1,Medium-High,Medium,4,2,3,1,1,1,2,1,3,3,3,1,2,2,9,D
+STUDENT128,< 18,Male,2,Preliminary Scholarships,NO,NO,NO,Lowest,4,3,3,2,2,1,Medium,Medium-High,2,1,1,2,1,1,1,1,3,2,2,1,2,2,9,B
+STUDENT129,< 18,Male,2,Preliminary Scholarships,NO,YES,YES,Lowest,4,3,3,4,2,1,Medium-High,Low-Medium,2,1,1,2,1,1,1,1,3,2,2,1,2,2,9,A
+STUDENT130,< 18,Male,2,Academic Recognition Scholarships,YES,YES,NO,Lowest,1,1,1,1,3,1,Low-Medium,Medium-High,4,2,3,2,1,1,2,2,3,2,3,2,2,3,9,D
+STUDENT131,< 18,Male,2,Academic Recognition Scholarships,YES,YES,NO,Lowest,1,1,1,2,3,1,Low-Medium,Medium-High,4,2,2,2,1,1,1,2,3,1,3,2,2,3,9,B
+STUDENT132,< 18,Male,1,Preliminary Scholarships,NO,YES,NO,Lowest,2,2,4,3,1,1,Medium,Low-Medium,4,1,3,2,1,1,1,2,3,2,3,1,5,3,9,E
+STUDENT133,< 18,Male,1,Preliminary Scholarships,NO,YES,NO,Lowest,1,2,1,2,3,1,Low-Medium,Lowest,2,2,3,2,1,1,2,1,3,2,3,1,5,4,9,D
+STUDENT134,< 18,Male,2,Preliminary Scholarships,NO,NO,YES,Lowest,1,1,1,1,1,1,Low-Medium,Medium,3,1,2,2,1,1,1,1,3,3,3,2,5,3,9,D
+STUDENT135,< 18,Male,2,Preliminary Scholarships,NO,YES,NO,Lowest,2,3,1,1,2,1,Medium-High,Medium,2,2,2,2,1,1,1,1,2,1,2,1,2,3,9,B
+STUDENT136,18 <= and < 30,Male,2,Academic Recognition Scholarships,YES,YES,NO,Lowest,4,2,3,3,1,1,Low-Medium,Lowest,2,3,2,1,3,1,1,1,3,3,2,1,3,2,9,C
+STUDENT137,< 18,Male,2,Academic Recognition Scholarships,YES,YES,YES,Lowest,2,3,3,3,3,1,Medium,Medium-High,2,2,2,2,1,1,3,1,3,2,2,1,2,2,9,A
+STUDENT138,< 18,Male,1,Preliminary Scholarships,NO,YES,NO,Lowest,1,1,2,2,2,1,Low-Medium,Lowest,2,2,2,1,1,1,1,1,3,1,3,1,2,4,9,C
+STUDENT139,< 18,Male,2,Academic Recognition Scholarships,YES,YES,YES,Highest,2,3,3,1,1,2,Medium-High,Highest,2,2,3,2,3,1,2,1,3,2,3,1,1,3,9,A
+STUDENT140,< 18,Male,2,Academic Recognition Scholarships,YES,NO,YES,Low-Medium,2,3,3,3,1,1,Highest,Medium-High,1,1,2,2,1,2,2,1,2,3,2,1,1,2,9,A
+STUDENT141,18 <= and < 30,Male,2,Academic Recognition Scholarships,YES,YES,NO,Lowest,1,2,1,2,2,2,Low-Medium,Medium-High,3,3,2,1,1,1,1,1,2,1,2,1,3,3,9,F
+STUDENT142,< 18,Male,2,Preliminary Scholarships,NO,NO,NO,Lowest,4,2,1,1,5,1,Low-Medium,Lowest,3,2,2,2,1,2,1,1,3,2,2,1,5,3,9,F
+STUDENT143,< 18,Male,1,Preliminary Scholarships,NO,NO,NO,Lowest,1,1,3,4,4,1,Low-Medium,Medium-High,2,2,2,1,1,1,1,1,3,3,2,1,4,3,9,B
+STUDENT144,18 <= and < 30,Male,2,Academic Recognition Scholarships,YES,YES,YES,Highest,2,3,4,4,1,1,Medium,Medium,2,2,1,1,1,1,2,1,2,1,2,1,5,3,9,E
+STUDENT145,< 18,Male,1,Preliminary Scholarships,NO,NO,NO,Medium,1,1,3,1,5,1,Low-Medium,Medium-High,3,1,1,1,1,1,2,1,3,2,3,1,5,4,9,D

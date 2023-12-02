@@ -1,14 +1,12 @@
 import React, { useState } from 'react';
-import { useDispatch } from 'react-redux';
 
-const FilterSelect = ({ title, placeholder, options, onOptionSelect }) => {
-    const [selectedOption, setSelectedOption] = useState('');
+const FilterSelect = ({key, title, placeholder, options, onOptionSelect }) => {
 
     return (
         <>
 
      
-                <div className="relative h-full mx-2">
+                <div key={key} className="relative h-full mx-2">
                     <label
                         htmlFor="email"
                         className="text-base bg-transparent font-normal py-2"
@@ -20,12 +18,12 @@ const FilterSelect = ({ title, placeholder, options, onOptionSelect }) => {
                             // value={selectedOption}
                             onChange={onOptionSelect}
                         >
-                            <option value="" disabled>
+                            <option selected value="" disabled>
                                 {placeholder}
                             </option>
-                            {options.map((it) => (
-                                <option key={it.value} value={it.value} >
-                                    {it.label}
+                            {options.map((it,index) => (
+                                <option key={index} value={title} >
+                                    {it}
                                 </option>
                             ))}
                         </select>
